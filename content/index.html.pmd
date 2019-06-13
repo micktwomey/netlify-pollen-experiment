@@ -1,6 +1,9 @@
 #lang pollen
 ◊(define pollen "Pollen")
+◊(define github-repo "https://github.com/micktwomey/netlify-pollen-experiment")
 
 # Hello
 
 This is a Markdown file preprocessed using ◊pollen and published using Netlify.
+
+The source for this is in [◊github-repo](◊github-repo).
